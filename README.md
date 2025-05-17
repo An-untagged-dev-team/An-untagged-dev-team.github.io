@@ -1,5 +1,5 @@
+![An untagged dev team](https://github.com/user-attachments/assets/ad51625b-cae5-4a1d-94c8-c661c0798f65)
 # Welcome to An untagged dev team's website
-[image](https://github.com/user-attachments/assets/822690c7-9619-48f9-a11c-3498866663de)
 There is our works
 
 ## Staff
