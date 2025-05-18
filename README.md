@@ -2,5 +2,5 @@
 # Welcome to An untagged dev team's website
 There is our works
 
-## Staff
-- K3013 : Main dev and owner
+## [Staff](/staff/)
+
