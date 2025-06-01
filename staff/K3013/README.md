@@ -8,10 +8,15 @@ He code in python and block language.
 > mais plus de réponse non plus " - Cultura
 ## His works on an untagged dev team :
 ---
-work: [Better Vibrant Visuals](works/Better%20Vibrant%20Visuals)
-work: [THIS manor](works/This%20Manor)
-work: [Project 3013](works/P3013)
-work: [BetterRTX : Vibrant preset](https://bedrock.graphics/k3013-vibrant-preset)
+
+[Better Vibrant Visuals](works/Better%20Vibrant%20Visuals)
+
+[THIS manor](works/This%20Manor)
+
+[Project 3013](works/P3013)
+
+[BetterRTX : Vibrant preset](https://bedrock.graphics/k3013-vibrant-preset)
+
 ---
 ## His message for you :
 " Thanks for follow us, this is too helpful for our projects <3 "
