@@ -7,10 +7,12 @@ He code in python and block language.
 > " Sans culture, on a plus de question
 > mais plus de réponse non plus " - Cultura
 ## His works on an untagged dev team :
-|[Better Vibrant Visuals](/works/Better-Vibrant-Visuals)
+|[Better Vibrant Visuals](/works/Better%20Vibrant%20Visuals)
 |-
-|[THIS manor](
+|[THIS manor](/works/THIS%20Manor)
 |-
-|
+|[BetterRTX : Vibrant preset](https://bedrock.graphics/k3013-vibrant-preset)
 |-
-|
+|[Project 3013](/works/P3013)
+## His message for you :
+" Thanks for follow us, this is too helpful for our projects <3 "
