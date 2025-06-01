@@ -3,4 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "An Untagged dev team"
 description: "The official website"
-icon: ![An untagged dev team](https://github.com/user-attachments/assets/ad51625b-cae5-4a1d-94c8-c661c0798f65)
