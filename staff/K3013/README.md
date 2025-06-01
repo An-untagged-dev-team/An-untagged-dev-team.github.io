@@ -18,7 +18,7 @@ He code in python and block language.
 
 [Project 3013](works/P3013)
 
-[BetterRTX : Vibrant preset](https://bedrock.graphics/k3013-vibrant-preset)
+[BetterRTX : Vibrant preset](https://bedrock.graphics/presets/k3013-vibrant-preset)
 
 ***
 ## His message for you :
