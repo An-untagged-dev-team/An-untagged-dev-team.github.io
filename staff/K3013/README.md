@@ -10,11 +10,11 @@ He code in python and block language.
 ## His greatest hits :
 
 
-[Better Vibrant Visuals](works/Better%20Vibrant%20Visuals)
+[Better Vibrant Visuals](/works/Better%20Vibrant%20Visuals)
 
-[THIS manor](works/This%20Manor)
+[THIS manor](/works/This%20Manor)
 
-[Project 3013](works/P3013)
+[Project 3013](/works/P3013)
 
 [BetterRTX : Vibrant preset](https://bedrock.graphics/presets/k3013-vibrant-preset)
 
