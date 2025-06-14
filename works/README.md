@@ -1,2 +1,2 @@
 # Works
-[Sprounk](spronk/)
+[Sprounk](sprounk/)
