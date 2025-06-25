@@ -13,3 +13,5 @@ There is our works
 - [THIS manor](/works/This%20Manor/)
 - [Sprounk](/works/sprounk/)
 
+### BREAKING NEWS : APPLY NOW !!!
+[Click here for apply today](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATbvU1FUQ1E5VDVDVTVGQ0FPUEdKWjdaQzFIN0oyNC4u)
