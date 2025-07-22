@@ -6,7 +6,7 @@ There is our works
 ## [Staff](/staff/)
 
 # Products :
-- [Klash Shaders](/works/klash/)
+- [Klash Shaders](/works/Klash/)
 - [Project 3013](https://6792734703066.site123.me/)
 - [THIS manor](/works/This%20Manor/)
 - [Sprounk](/works/sprounk/)
