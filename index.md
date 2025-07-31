@@ -13,4 +13,4 @@ There is our works
 
 ### BREAKING NEWS : APPLY NOW !!!
 [Click here for apply today](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATbvU1FUQ1E5VDVDVTVGQ0FPUEdKWjdaQzFIN0oyNC4u)
-#### discover [our partner](partner.md)
+#### discover [our partner](Partner.md)
