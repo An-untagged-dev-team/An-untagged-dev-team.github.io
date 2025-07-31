@@ -3,7 +3,7 @@ Klash Shaders is a brand new resource pack who replace Better Vibrant Visuals
 
 These shaders contains these awesome features:
 - Lighty day, darky night
-- Everything is made WIHOUT ANY TEXTURE ( excluding the title )
+- Enhanced PBR design ( without and heightmap or normal )
 - Beatiful Water
 - And more
 
@@ -20,3 +20,5 @@ And now, some pictures only for your eyes
 ## Downloads
 
 - [Curseforge](https://www.curseforge.com/minecraft-bedrock/texture-packs/klash-shaders-c)
+- [Patreon](https://www.patreon.com/posts/135380526)
+- [Source code](https://github.com/K3013/Klash-Shaders)
