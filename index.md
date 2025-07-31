@@ -6,14 +6,10 @@ There is our works
 ## [Staff](/staff/)
 
 # Products :
-[<img src="https://bit.ly/3INKhDs">](Klash.md)       
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[<img src="https://bit.ly/3INKhDs">](Klash.md)|-|![Project 3013](https://6792734703066.site123.me/)|-|![Sprounk](https://k3013.itch.io/sprounk-sprunki-mod)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
-|![Project 3013](https://6792734703066.site123.me/)   |
-|-----------------------------------------------------|
-
-|![Sprounk](https://k3013.itch.io/sprounk-sprunki-mod)|
-|-----------------------------------------------------|
 
 ### BREAKING NEWS : APPLY NOW !!!
 [Click here for apply today](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATbvU1FUQ1E5VDVDVTVGQ0FPUEdKWjdaQzFIN0oyNC4u)
